@@ -1,5 +1,5 @@
 # 0x11. C - printf 
 ## TEAM MATES
-  - Uloma Nwaosu
-  - Wisdom Onyearizo
+  - [Uloma Nwaosu](https://github.com/Yhulormah/)
+  - [Wisdom Onyearizo](https://github.com/lamodots)
 
